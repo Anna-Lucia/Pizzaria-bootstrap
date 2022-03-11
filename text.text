@@ -1,0 +1,26 @@
+<div class="card-group">
+          <div class="card card border-danger mb-3" style="max-width: 18rem;">
+            <img src="carrosel-card/card.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Combo 2</h5>
+              <p class="card-text">Pizza Grande + Refri</p>
+              <a href="#" class="btn btn-danger">Quero esse!!</a>
+            </div>
+          </div>
+          <div class="card card border-danger mb-3" style="max-width: 18rem;">
+            <img src="carrosel-card/card.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Combo 2</h5>
+              <p class="card-text">Pizza Grande + Refri</p>
+              <a href="#" class="btn btn-danger">Quero esse!!</a>
+            </div>
+          </div>
+          <div class="card card border-danger mb-3" style="max-width: 18rem;">
+            <img src="carrosel-card/card.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Combo 2</h5>
+              <p class="card-text">Pizza Grande + Refri</p>
+              <a href="#" class="btn btn-danger">Quero esse!!</a>
+            </div>
+          </div>
+      </div>
